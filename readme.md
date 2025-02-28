@@ -72,6 +72,14 @@ This bot supports API integrations (optional for advanced users):
 
 To enable these, update `config.py` with valid API credentials.
 
+## Screenshots
+
+Here are some screenshots of the results page:
+
+![Streamlit App Page](screenshots/bot_app.png)
+
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to improve this project, feel free to submit a pull request or open an issue.
@@ -81,5 +89,5 @@ Contributions are welcome! If you'd like to improve this project, feel free to s
 This project is licensed under the **MIT License**.
 
 ---
-_Made with ❤️ by Deep Habswashi;_
+_Made with ❤️ by Deep Habswashi_
 
