@@ -5,7 +5,7 @@
 Seller Credibility Bot is an AI-powered web application designed to analyze the credibility of online sellers. By providing a URL (such as a Facebook or Instagram seller page), the bot extracts relevant text-based data and runs a sentiment analysis using:
 
 - **NLTK's VADER Sentiment Analyzer** to assess sentiment polarity.
-- **Hugging Face's Transformer Pipeline** (optional) for advanced credibility assessment.
+- **Hugging Face's Transformer Pipeline** for advanced credibility assessment.
 
 It then presents a recommendation on whether a seller appears trustworthy.
 
